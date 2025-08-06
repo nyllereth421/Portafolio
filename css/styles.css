@@ -2071,7 +2071,7 @@ progress {
   padding: 0.375rem 0;
   margin-bottom: 0;
   line-height: 1.5;
-  color: #212529;
+  color: #94c5f7;
   background-color: transparent;
   border: solid transparent;
   border-width: 0.125rem 0;
@@ -2773,7 +2773,7 @@ textarea.form-control-lg {
   --bs-btn-font-size: 1rem;
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.5;
-  --bs-btn-color: #212529;
+  --bs-btn-color: #8dbdec;
   --bs-btn-bg: transparent;
   --bs-btn-border-width: 0.125rem;
   --bs-btn-border-color: transparent;
